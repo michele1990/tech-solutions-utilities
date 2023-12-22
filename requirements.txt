@@ -1,0 +1,4 @@
+datadog_api_client
+paramiko
+trino
+pandas
